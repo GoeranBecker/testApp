@@ -1,0 +1,50 @@
+ion-toolbar{
+  --background: brown;
+  text-align: center;
+  font-size: 30px;
+}
+.valuesDiv{
+  margin: 0px;
+  height: 25%;
+  
+
+  text-align: right;
+  font-size: 40px;
+}
+
+#termCard{
+  margin: 0px;
+  height: 75%;
+
+  text-align: right;
+  font-size: 40px;
+}
+
+#solutionCard{
+  margin: 0px;
+  height: 25%;
+
+  text-align: right;
+  font-size: 40px;
+}
+
+.buttonTable{
+  width: 100%;
+  height: 50%;
+}
+
+ion-button{
+  margin-left: 5px;
+  width: 23%;
+  height: 90%;
+
+  --background: black;
+  --background-pressed: gray; 
+  --background-hover: white;
+  --baclground-opacity: 50%;
+
+  --border-width: 1px;
+  --border-color: rgba(0, 255, 255, 0.354);
+  --border-style: solid;
+
+}
